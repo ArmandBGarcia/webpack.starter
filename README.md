@@ -62,5 +62,12 @@ Ir al archivo de configuracion de webpack y configurarlo como inidica en la web,
 https://babeljs.io/setup#installation
 
 
-
-
+### Notas:
+Recuerda reconstruir los módulos de Node.
+```
+npm install
+```
+Y para construir el build, recuerda:
+```
+npm run build
+```
