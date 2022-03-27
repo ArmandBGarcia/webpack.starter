@@ -71,3 +71,7 @@ Y para construir el build, recuerda:
 ```
 npm run build
 ```
+Para recuperar archivos es con el comando
+```
+git checkout -- .
+```
